@@ -2,7 +2,7 @@
   "name": "SeeClickPatch",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "A simple Chrome extension that adds a SeeClickFix issue map to any Patch hyperlocal news website.",
+  "description": "A simple Chrome extension that adds a SeeClickFix issue map to any Patch.com hyperlocal news website.",
   "permissions": ["http://*.patch.com/", "http://maps.googleapis.com/"],
   "content_scripts": [
     {
